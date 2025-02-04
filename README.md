@@ -51,7 +51,7 @@ Explain how to set up the project locally.  Keep it simple!
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your_username/weather-app.git](https://www.google.com/search?q=https://github.com/your_username/weather-app.git)
+   git clone https://github.com/shubh9119/WeatherApp.git
    Open the index.html file in your web browser. 
 2.How to Use
 Provide clear instructions on how to use your app.  Include examples if necessary.
