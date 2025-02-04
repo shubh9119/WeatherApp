@@ -69,6 +69,12 @@ Provide clear instructions on how to use your app.  Include examples if necessar
 ![Screenshot (1)](https://github.com/user-attachments/assets/0827632a-bdeb-441d-ad14-c22d5c099466)
 ![Screenshot (2)](https://github.com/user-attachments/assets/df3f6d70-2cd2-4605-8cb5-6ccb04423ee4)
 
+##Deployment>>link....
+https://coruscating-brioche-f90e92.netlify.app/
+
+
+
+
 Contributing (Optional)
 
 ##Contact>>
